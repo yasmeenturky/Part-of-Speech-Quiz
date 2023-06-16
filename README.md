@@ -7,7 +7,7 @@ A web app to test your grammatical skills by identifying the word class of diffe
 - cd server directory
 - run npm install to install all dependencies
 - run npm run build to generate build file
-- npm run server to start server on `http://localhost:5000/`
+- npm run start to start server on `http://localhost:5000/`
 
 ## Client
 - cd client directory
