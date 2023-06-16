@@ -1,4 +1,4 @@
-# Part-of-Speech-Quiz
+# Part of Speech Quiz
 
 ## Description
 A web app to test your grammatical skills by identifying the word class of different words. 
